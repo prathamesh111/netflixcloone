@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM, {render} from 'react-dom';
 import {GlobalStyles} from './global-styles.js';
 import 'normalize.css';
-import App from './app';
+import App from './App';
 render(
     <>
         <GlobalStyles />
